@@ -22,8 +22,8 @@ inLanguage: en
 app_links: []
 isBasedOnUrl: 'http://serenityfh.com/'
 title: 'Home | Serenity Funeral Home, locations in Burin and...'
-datePublished: '2016-06-03T11:26:54.536Z'
-dateModified: '2016-06-03T11:26:54.472Z'
+datePublished: '2016-06-03T11:26:54.673Z'
+dateModified: '2016-06-03T11:26:54.529Z'
 starred: false
 sourcePath: _posts/2016-06-03-home-or-serenity-funeral-home-locations-in-burin-and.md
 inFeed: true
